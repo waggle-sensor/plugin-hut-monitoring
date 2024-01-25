@@ -1,0 +1,12 @@
+name: ""
+description: ""
+keywords: ""
+authors: "Your Name <your.email@somewhere.org>"
+collaborators: ""
+funding: ""
+license: ""
+homepage: "https://github.com/waggle-sensor/edge-app-template"
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
